@@ -6,4 +6,6 @@ I can ensure that my code is functional by running tests that verify expected ou
 
 <h2><b>How do I interpret user needs and incorporate them into a program?</b></h2>
 
+I interpret user needs by going over what they expect the program to do. Using this information, I write out requirements that will lead to the creation of tests that will verify the program requirements.
+
 <h2><b>How do I approach designing software?</b></h2>
