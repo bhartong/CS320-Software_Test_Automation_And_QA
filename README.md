@@ -9,3 +9,5 @@ I can ensure that my code is functional by running tests that verify expected ou
 I interpret user needs by going over what they expect the program to do. Using this information, I write out requirements that will lead to the creation of tests that will verify the program requirements.
 
 <h2><b>How do I approach designing software?</b></h2>
+
+I approch designing software by taking down all the expected requirements of the program. Using this information I try to break the program into as many pieces that I can. I then write and test each of these sections separately verifying they work as expected. After making sure those parts work, I start to combine them together and test again to verify functionality.
